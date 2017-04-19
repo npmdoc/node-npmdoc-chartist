@@ -1,9 +1,14 @@
-# api documentation for  [chartist (v0.10.1)](https://gionkunz.github.io/chartist-js)  [![npm package](https://img.shields.io/npm/v/npmdoc-chartist.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-chartist) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-chartist.svg)](https://travis-ci.org/npmdoc/node-npmdoc-chartist)
+# npmdoc-chartist
+
+#### api documentation for  [chartist (v0.11.0)](https://gionkunz.github.io/chartist-js)  [![npm package](https://img.shields.io/npm/v/npmdoc-chartist.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-chartist) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-chartist.svg)](https://travis-ci.org/npmdoc/node-npmdoc-chartist)
+
 #### Simple, responsive charts
 
-[![NPM](https://nodei.co/npm/chartist.png?downloads=true)](https://www.npmjs.com/package/chartist)
+[![NPM](https://nodei.co/npm/chartist.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/chartist)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-chartist/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-chartist%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-chartist/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-chartist/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-chartist/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-chartist/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-chartist/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-chartist/build/screenCapture.npmPackageListing.svg)
 
@@ -68,8 +73,8 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "3dd513d531dfca6b78e777fe0500d9c7e6406931",
-        "tarball": "https://registry.npmjs.org/chartist/-/chartist-0.10.1.tgz"
+        "shasum": "84ba5e05490d096d93dcfa9343ebc31ef6a3bd28",
+        "tarball": "https://registry.npmjs.org/chartist/-/chartist-0.11.0.tgz"
     },
     "engines": {
         "node": ">=4.6.0"
@@ -81,7 +86,7 @@
         "package.json",
         "README.md"
     ],
-    "gitHead": "1c2b5dc55b33d92ed17a96d0bbe8f172f2221187",
+    "gitHead": "e2ee06153f099b548530ef517a247fc0dc978cb8",
     "homepage": "https://gionkunz.github.io/chartist-js",
     "keywords": [
         "chartist",
@@ -103,13 +108,11 @@
     "main": "dist/chartist.js",
     "maintainers": [
         {
-            "name": "gionkunz",
-            "email": "gion.kunz@gmail.com"
+            "name": "gionkunz"
         }
     ],
     "name": "chartist",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/gionkunz/chartist-js.git"
@@ -124,19 +127,9 @@
     },
     "style": "dist/chartist.min.css",
     "title": "Chartist.js",
-    "version": "0.10.1"
+    "version": "0.11.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module chartist](#apidoc.module.chartist)
-
-
-
-# <a name="apidoc.module.chartist"></a>[module chartist](#apidoc.module.chartist)
 
 
 
